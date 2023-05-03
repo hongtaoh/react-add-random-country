@@ -1,3 +1,3 @@
 # react-add-random-country
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-vtmg6z)
+Display information for a random country. Created using React on StackBlitz and deployed on Vercel.
